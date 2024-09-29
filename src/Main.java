@@ -51,9 +51,8 @@ public class Main {
             out.println("Content-Type: " + contentType);
             out.println("Content-Length: " + file.length());
             out.println("");
-            out.flush();  // Ensure headers are sent before the file
+            out.flush();
 
-            // Use BufferedOutputStream for file transfer
             try (BufferedOutputStream bufferedOutputStream = new BufferedOutputStream(outputStream)) {
                 Files.copy(file.toPath(), bufferedOutputStream);
             }

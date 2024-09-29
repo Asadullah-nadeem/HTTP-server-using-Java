@@ -1,0 +1,34 @@
+[2024-09-29 21:27:34] Received request: GET / HTTP/1.1
+[2024-09-29 21:27:34] File not found: /index.html
+[2024-09-29 21:27:34] Received request: GET /favicon.ico HTTP/1.1
+[2024-09-29 21:27:34] File not found: /favicon.ico
+[2024-09-29 21:28:36] Received request: GET / HTTP/1.1
+[2024-09-29 21:28:36] File not found: /index.html
+[2024-09-29 21:28:49] Received request: GET / HTTP/1.1
+[2024-09-29 21:28:49] File not found: /index.html
+[2024-09-29 21:32:24] Received request: GET / HTTP/1.1
+[2024-09-29 21:32:24] Served file: /index.html
+[2024-09-29 21:32:24] Received request: GET / HTTP/1.1
+[2024-09-29 21:33:53] Received request: GET / HTTP/1.1
+[2024-09-29 21:33:53] Served file: /index.html
+[2024-09-29 21:33:53] Received request: GET /style.css HTTP/1.1
+[2024-09-29 21:33:53] File not found: /style.css
+[2024-09-29 21:33:53] Received request: GET /favicon.ico HTTP/1.1
+[2024-09-29 21:33:53] File not found: /favicon.ico
+[2024-09-29 21:34:09] Received request: GET / HTTP/1.1
+[2024-09-29 21:34:09] Served file: /index.html
+[2024-09-29 21:34:09] Received request: GET / HTTP/1.1
+[2024-09-29 21:35:23] Received request: GET / HTTP/1.1
+[2024-09-29 21:35:23] Served file: /index.html
+[2024-09-29 21:35:23] Received request: GET /css/style.css HTTP/1.1
+[2024-09-29 21:35:23] Served file: /css/style.css
+[2024-09-29 21:35:23] Received request: GET /favicon.ico HTTP/1.1
+[2024-09-29 21:35:23] File not found: /favicon.ico
+[2024-09-29 21:36:10] Received request: GET / HTTP/1.1
+[2024-09-29 21:36:10] Served file: /index.html
+[2024-09-29 21:36:10] Received request: GET /css/style.css HTTP/1.1
+[2024-09-29 21:36:10] Served file: /css/style.css
+[2024-09-29 21:36:48] Received request: GET / HTTP/1.1
+[2024-09-29 21:36:48] Served file: /index.html
+[2024-09-29 21:36:48] Received request: GET /css/style.css HTTP/1.1
+[2024-09-29 21:36:48] Served file: /css/style.css
